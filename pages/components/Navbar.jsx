@@ -7,7 +7,7 @@ function Navbar() {
    <>
    <nav className='text-white flex md:justify-around items-center p-[40px] justify-between'>
     <div>
-        <h1 className="text-2xl">Ohm Circuits</h1>
+        <h1 className="text-2xl">OHM Circuits</h1>
     </div>
 
     <div>
