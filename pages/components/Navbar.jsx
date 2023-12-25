@@ -12,13 +12,13 @@ function Navbar() {
 
     <div>
         <ul className='md:flex gap-[50px] text-sm hidden'>
-            <li>Learn</li>
-            <li>Build</li>
-            <li>Explore</li>
+            <li>Product & Capabilities</li>
+            <li>Why Us?</li>
+            <li>Contact</li>
         </ul>
     </div>
     <div>
-    <h3 className="text-2xl md:block hidden">Get CRONOS</h3>
+    <h3 className="text-2xl md:block hidden">Get An Instant Quote</h3>
     </div>
 
     <div

@@ -14,7 +14,7 @@ export default function Home() {
       <header className='text-white text-sm mt-[100px] flex flex-col items-center justify-center   '>
 <div>
 <div>
-          <h3 className='text-center'>Say Hi to NEXT level customer service!</h3>
+          <h3 className='text-center'>-</h3>
         </div>
         <div className='relative'>
         <Image src="/Icosahedron (1).png" width={180} height={350} alt="icon" className='overflow-hidden absolute -top-[30px] -left-[50px] z-1' ></Image>
