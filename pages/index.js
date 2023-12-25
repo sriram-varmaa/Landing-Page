@@ -39,7 +39,7 @@ export default function Home() {
       <h1 className='md:text-6xl  md:w-[500px] leading-[70px] mb-[40px] text-5xl'>A World of<br/> Integrated PCB Solutions</h1>
       <p className='md:w-[400px]'>Our advanced services bridge the gap in electronic manufacturing, offering you a platform where precision meets reliability. Experience seamless integration of components and data across your diverse electronics projects.</p>
       <div className='md:mt-[80px] mt-[50px]'>
-      <Image src="/Frame 22.png" width={200} height={250} alt="icon" className=' z-5' ></Image>
+      {/* <Image src="/Frame 22.png" width={200} height={250} alt="icon" className=' z-5' ></Image> */}
       </div>
       </div>
       
@@ -345,7 +345,7 @@ export default function Home() {
   <div className="flex gap-[50px] flex-col md:flex-row">
     <div>
       <h1 className="font-bold text-2xl">Receive Updates</h1>
-      <p>Unsubscribe at anytime. Privacy policy {`>>>`}</p>
+      {/* <p>Unsubscribe at anytime. Privacy policy {`>>>`}</p> */}
     </div>
     <div>
       <input type="email" placeholder="your email" className='bg-[#141414] text-white p-2 py-3 w-[300px]'/>
