@@ -37,7 +37,7 @@ export default function Home() {
       <Image src="/Helix.png" width={350} height={350} alt="icon" className=' z-5' ></Image>
       <div className='absolute top-[40px] md:left-[150px] md:w-[500px]  px-4 md:px-0'>
       <h1 className='md:text-6xl  md:w-[500px] leading-[70px] mb-[40px] text-5xl'>A World of<br/> Integrated PCB Solutions</h1>
-      <p className='md:w-[400px]'>Embrace the Future of Seamless Integration with Our Advanced Inter-Blockchain Technology. Our pioneering platform facilitates effortless asset and data transfer across diverse blockchain networks, ensuring unparalleled connectivity and interoperability</p>
+      <p className='md:w-[400px]'>Our advanced services bridge the gap in electronic manufacturing, offering you a platform where precision meets reliability. Experience seamless integration of components and data across your diverse electronics projects.</p>
       <div className='md:mt-[80px] mt-[50px]'>
       <Image src="/Frame 22.png" width={200} height={250} alt="icon" className=' z-5' ></Image>
       </div>
