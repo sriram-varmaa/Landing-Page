@@ -14,12 +14,12 @@ export default function Home() {
       <header className='text-white text-sm mt-[100px] flex flex-col items-center justify-center   '>
 <div>
 <div>
-          <h3 className='text-center'>WELCOME TO CRONOS</h3>
+          <h3 className='text-center'>Say Hi to NEXT level customer service!</h3>
         </div>
         <div className='relative'>
         <Image src="/Icosahedron (1).png" width={180} height={350} alt="icon" className='overflow-hidden absolute -top-[30px] -left-[50px] z-1' ></Image>
-          <h1 className='md:text-8xl text-center mt-[60px] z-5 text-5xl'>The Internet Of <br/>Blockchains.</h1>
-          <p className="text-2xl mt-[30px] text-center ">Cronos is an ever expanding ecosystem connected<br/> apps and services,built  for a decentralized future</p>
+          <h1 className='md:text-8xl text-center mt-[60px] z-5 text-5xl'>Next Generation PCB Assembly House <br/>Source From India</h1>
+          <p className="text-2xl mt-[30px] text-center ">Our PCB assembly house boasts state-of-the-art machinery and unparalleled precision <br/> ensuring the highest quality and reliability in electronic manufacturing services.</p>
         </div>
         <div className='absolute right-0 top-[350px] overflow-hidden'>
         <Image src="/Icosahedron.png" width={350} height={350} alt="icon" className='overflow-hidden' ></Image>
