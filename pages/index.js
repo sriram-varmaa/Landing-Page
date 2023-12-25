@@ -36,8 +36,8 @@ export default function Home() {
       <div className='relative'>
       <Image src="/Helix.png" width={350} height={350} alt="icon" className=' z-5' ></Image>
       <div className='absolute top-[40px] md:left-[150px] md:w-[500px]  px-4 md:px-0'>
-      <h1 className='md:text-6xl  md:w-[500px] leading-[70px] mb-[40px] text-5xl'>Explore the World<br/>of Integrated PCB Solutions</h1>
-      <p className='md:w-[400px]'>Cronos apps and services connect using IBC, the inter-blockchain community protocol.This innovation enables you to freely exchange assets and data across sovereign</p>
+      <h1 className='md:text-6xl  md:w-[500px] leading-[70px] mb-[40px] text-5xl'>A World of<br/> Integrated PCB Solutions</h1>
+      <p className='md:w-[400px]'>Embrace the Future of Seamless Integration with Our Advanced Inter-Blockchain Technology. Our pioneering platform facilitates effortless asset and data transfer across diverse blockchain networks, ensuring unparalleled connectivity and interoperability</p>
       <div className='md:mt-[80px] mt-[50px]'>
       <Image src="/Frame 22.png" width={200} height={250} alt="icon" className=' z-5' ></Image>
       </div>
@@ -47,13 +47,13 @@ export default function Home() {
 
       <div className="mr-[200px] flex flex-col gap-[100px] mt-[150px] md:mt-0 px-3 md:px-0">
         <div>
-          <h1 className='text-8xl'>265+</h1>
-          <p>Apps $ Services</p>
+          <h1 className='text-8xl'>600+</h1>
+          <p>Clients Served</p>
         </div>
 
         <div>
-          <h1 className='text-8xl'>$63B+</h1>
-          <p>Digital Assets</p>
+          <h1 className='text-8xl'>1M+</h1>
+          <p>Devices Assembled</p>
         </div>
 
       </div>
@@ -242,7 +242,7 @@ export default function Home() {
     </div>
   </div>
 
-<div className='mt-[80px] flex items-center justify-center '>
+{/* <div className='mt-[80px] flex items-center justify-center '>
   <div className="flex flex-col items-center justify-center">
     <h1 className='text-5xl mt-[30px] mb-[30px] text-center'>
       Join the network.
@@ -338,13 +338,13 @@ export default function Home() {
 
 
 
-    </div>
+    </div> */}
 
 
 <div className="mt-[150px] flex items-center justify-center">
   <div className="flex gap-[50px] flex-col md:flex-row">
     <div>
-      <h1 className="font-bold text-2xl">Receive Transmissions</h1>
+      <h1 className="font-bold text-2xl">Receive Updates</h1>
       <p>Unsubscribe at anytime. Privacy policy {`>>>`}</p>
     </div>
     <div>
