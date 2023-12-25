@@ -18,7 +18,7 @@ export default function Home() {
         </div>
         <div className='relative'>
         <Image src="/Icosahedron (1).png" width={180} height={350} alt="icon" className='overflow-hidden absolute -top-[30px] -left-[50px] z-1' ></Image>
-          <h1 className='md:text-8xl text-center mt-[60px] z-5 text-5xl'>Next Generation PCB Assembly House <br/>Source From India</h1>
+          <h1 className='md:text-8xl text-center mt-[60px] z-5 text-5xl'>Next Generation <br/>PCB Assembly House</h1>
           <p className="text-2xl mt-[30px] text-center ">Our PCB assembly house boasts state-of-the-art machinery and unparalleled precision <br/> ensuring the highest quality and reliability in electronic manufacturing services.</p>
         </div>
         <div className='absolute right-0 top-[350px] overflow-hidden'>
