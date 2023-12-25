@@ -19,7 +19,7 @@ export default function Home() {
         <div className='relative'>
         <Image src="/Icosahedron (1).png" width={180} height={350} alt="icon" className='overflow-hidden absolute -top-[30px] -left-[50px] z-1' ></Image>
           <h1 className='md:text-8xl text-center mt-[60px] z-5 text-5xl'>Next Generation <br/>PCB Assembly House</h1>
-          <p className="text-2xl mt-[30px] text-center ">Our PCB assembly house boasts state-of-the-art machinery and unparalleled precision <br/> ensuring the highest quality and reliability in electronic manufacturing services.</p>
+          <p className="text-2xl mt-[30px] text-center ">Our PCB assembly lines boast state-of-the-art machinery and unparalleled precision <br/> ensuring the highest quality and reliability in electronic manufacturing services.</p>
         </div>
         <div className='absolute right-0 top-[350px] overflow-hidden'>
         <Image src="/Icosahedron.png" width={350} height={350} alt="icon" className='overflow-hidden' ></Image>
@@ -64,7 +64,7 @@ export default function Home() {
   </div>
 
 
-  <div className='mt-[80px]'>
+  {/* <div className='mt-[80px]'>
     <div className="flex flex-col items-center justify-center">
       <div className='relative px-4 md:px-0'>
       <Image src="/Thorus 3.png" width={600} height={750} alt="icon" className=' z-5' ></Image>
@@ -240,7 +240,7 @@ export default function Home() {
       </div>
       </div>
     </div>
-  </div>
+  </div> */}
 
 {/* <div className='mt-[80px] flex items-center justify-center '>
   <div className="flex flex-col items-center justify-center">
