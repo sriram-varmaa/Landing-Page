@@ -36,7 +36,7 @@ export default function Home() {
       <div className='relative'>
       <Image src="/Helix.png" width={350} height={350} alt="icon" className=' z-5' ></Image>
       <div className='absolute top-[40px] md:left-[150px] md:w-[500px]  px-4 md:px-0'>
-      <h1 className='md:text-6xl  md:w-[500px] leading-[70px] mb-[40px] text-5xl'>Enter a Universe <br/>of Connected Services</h1>
+      <h1 className='md:text-6xl  md:w-[500px] leading-[70px] mb-[40px] text-5xl'>Explore the World<br/>of Integrated PCB Solutions</h1>
       <p className='md:w-[400px]'>Cronos apps and services connect using IBC, the inter-blockchain community protocol.This innovation enables you to freely exchange assets and data across sovereign</p>
       <div className='md:mt-[80px] mt-[50px]'>
       <Image src="/Frame 22.png" width={200} height={250} alt="icon" className=' z-5' ></Image>
